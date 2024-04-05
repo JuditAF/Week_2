@@ -1,4 +1,5 @@
-class Person {
+
+export class Person {
     
     constructor(public name: string, public age: number, private address: string) {
 
@@ -19,5 +20,3 @@ class Person {
     }
     
 }
-
-export class Person

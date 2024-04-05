@@ -1,4 +1,4 @@
-import { Person } from "./person”
+import { Person } from "./person";
 
 let persona1: Person= new Person ("Idrys", 24, "C/Bruma, 9");
 
